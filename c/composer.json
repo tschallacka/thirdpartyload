@@ -1,0 +1,19 @@
+{
+	"name" : "ThirdPartyLoad/A",
+	"type" : "october-plugin",
+	"description" : "Thirdparty Load testing part A",
+	"keywords" : [
+		"october",
+		"octobercms",
+		"test",
+		"A"
+	],
+	"authors" : [{
+			"name" : "tschallacka",
+			"email" : "tschallacka@outlook.com"
+		}
+	],
+	"require" : {
+		"salsify/json-streaming-parser" : "^7.0"
+	}
+}
